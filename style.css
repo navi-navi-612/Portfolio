@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@400..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.nav-logo{
+    height:80px;
+}
+.mass-body{
+    
+    background-image:url("https://i.pinimg.com/736x/c2/b5/c9/c2b5c9eba58fe19b76a5ad15b195a132.jpg");
+}
+.navbar{
+    color: white;
+    font-size: smaller;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.item-nav{
+    color: white;
+    font-family: "Lato", serif;
+}
+.item-nav:hover{
+    color: rgb(149, 71, 71);
+}
+.anchor{
+    margin-left: auto;
+}
+.body-section {
+    height: 80vh;
+    
+}
+.box-right{
+
+}
+.box-left {
+    
+    color: white;
+    height: 100px;
+    font-family: "Lato", serif;
+    text-align: right;
+    padding-left: 250px;
+}
+
+.image{
+    border-radius: 200%;
+    
+}
+.home-para {
+    font-family: "Lato", serif;
+    font-size: 15px;
+       
+
+}
+
+.what-h1{
+    color: white;
+    text-align: center;
+    font-family: "Lato", serif;
+    font-weight: 800;
+    
+}
+.what-p {
+    color: white;
+    font-family: "Lato", serif;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+       
+
+}
+.card:hover {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 20px;
+
+}
+.img-card{
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+}
+.serv-h1{
+    font-family: "Lato", serif;
+    font-weight: 700;
+    font-size: large;
+    padding-top: 20px;
+    text-align: center;
+}
+.serv-p{
+    text-align: center;
+    font-size: 20px;
+}
+.sc-p{
+    text-align: center;
+    font-family: "Lato", serif;
+    font-size: 15px;
+
+}
+.contact{
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    
+   
+}
+.contact-info{
+    color: rgb(104, 89, 89);;
+    font-family: "Encode Sans", sans-serif;
+    font-size: 20px;
+}
+.ser-h1{
+    margin: 30px;
+    padding: 20px;
+    
+}
+    
+
+
